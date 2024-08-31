@@ -1,0 +1,14 @@
+C:\CHALLENGE\Daily Billing\bin\Debug\net8.0\Daily Billing.exe
+C:\CHALLENGE\Daily Billing\bin\Debug\net8.0\Daily Billing.deps.json
+C:\CHALLENGE\Daily Billing\bin\Debug\net8.0\Daily Billing.runtimeconfig.json
+C:\CHALLENGE\Daily Billing\bin\Debug\net8.0\Daily Billing.dll
+C:\CHALLENGE\Daily Billing\bin\Debug\net8.0\Daily Billing.pdb
+C:\CHALLENGE\Daily Billing\obj\Debug\net8.0\Daily Billing.GeneratedMSBuildEditorConfig.editorconfig
+C:\CHALLENGE\Daily Billing\obj\Debug\net8.0\Daily Billing.AssemblyInfoInputs.cache
+C:\CHALLENGE\Daily Billing\obj\Debug\net8.0\Daily Billing.AssemblyInfo.cs
+C:\CHALLENGE\Daily Billing\obj\Debug\net8.0\Daily Billing.csproj.CoreCompileInputs.cache
+C:\CHALLENGE\Daily Billing\obj\Debug\net8.0\Daily Billing.dll
+C:\CHALLENGE\Daily Billing\obj\Debug\net8.0\refint\Daily Billing.dll
+C:\CHALLENGE\Daily Billing\obj\Debug\net8.0\Daily Billing.pdb
+C:\CHALLENGE\Daily Billing\obj\Debug\net8.0\Daily Billing.genruntimeconfig.cache
+C:\CHALLENGE\Daily Billing\obj\Debug\net8.0\ref\Daily Billing.dll
